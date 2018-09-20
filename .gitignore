@@ -1,11 +1,13 @@
-*.iml
 .gradle
 app/
 filemku/
 /local.properties
-/.idea/workspace.xml
+
+hkhh/.idea/workspace.xml
 /.idea/libraries
-.DS_Store
+Store
 /build
 /captures
 .externalNativeBuild
+test
+ijuo
